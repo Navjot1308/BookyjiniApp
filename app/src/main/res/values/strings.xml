@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bookyjini</string>
+    <string name="contnine">CONTINUE</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_in_">Sign in</string>
+    <string name="email_id">Email_id</string>
+    <string name="password">Password</string>
+    <string name="sign_in_in">Sign_in</string>
+    <string name="in_sign">Sign in</string>
+</resources>
